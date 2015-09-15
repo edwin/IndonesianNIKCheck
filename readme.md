@@ -16,9 +16,15 @@ How to Use this Application
 Output Example
 --------------------
 >2015-09-15 17:08:23,811 [Main] DEBUG com.edw.indonesiannikcheck.Main:48 - NIK:	 : 	367113xxxxxx0002
+
 >2015-09-15 17:08:23,813 [Main] DEBUG com.edw.indonesiannikcheck.Main:48 - Nama:	 : 	RAxxx NUxxxx
+
 >2015-09-15 17:08:23,813 [Main] DEBUG com.edw.indonesiannikcheck.Main:48 - Jenis kelamin:	 : 	LAKI-LAKI
+
 >2015-09-15 17:08:23,814 [Main] DEBUG com.edw.indonesiannikcheck.Main:48 - Kelurahan:	 : 	xxxxx
+
 >2015-09-15 17:08:23,814 [Main] DEBUG com.edw.indonesiannikcheck.Main:48 - Kecamatan:	 : 	xxxx
+
 >2015-09-15 17:08:23,814 [Main] DEBUG com.edw.indonesiannikcheck.Main:48 - Kabupaten/Kota:	 : 	xxxx
+
 >2015-09-15 17:08:23,814 [Main] DEBUG com.edw.indonesiannikcheck.Main:48 - Provinsi:	 : 	xxxxx
